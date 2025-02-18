@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="subTerra/App &amp; Bootstrap/InfoPlist.xcstrings" source-language="en-GB" target-language="es-419" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>subTerra</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="subTerra/App &amp; Bootstrap/Localizable.xcstrings" source-language="en-GB" target-language="es-419" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+    </header>
+    <body>
+      <trans-unit id="" xml:space="preserve">
+        <source/>
+        <note/>
+      </trans-unit>
+      <trans-unit id=" %@" xml:space="preserve">
+        <source> %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id=" : " xml:space="preserve">
+        <source> : </source>
+        <note/>
+      </trans-unit>
+      <trans-unit id=" All time" xml:space="preserve">
+        <source> All time</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id=" Date range" xml:space="preserve">
+        <source> Date range</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id=" Last year" xml:space="preserve">
+        <source> Last year</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id=" This year" xml:space="preserve">
+        <source> This year</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%@" xml:space="preserve">
+        <source>%@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%@ %@" xml:space="preserve">
+        <source>%1$@ %2$@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%@ : " xml:space="preserve">
+        <source>%@ : </source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%@ copyright 2024 %@" xml:space="preserve">
+        <source>%1$@ copyright 2024 %2$@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%@%%" xml:space="preserve">
+        <source>%@%%</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld" xml:space="preserve">
+        <source>%lld</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld %@" xml:space="preserve">
+        <source>%1$lld %2$@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld %@ : " xml:space="preserve">
+        <source>%1$lld %2$@ : </source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld / %lld digs" xml:space="preserve">
+        <source>%1$lld / %2$#@totalDigs@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld / %lld digs|==|substitutions.totalDigs.plural.one" xml:space="preserve">
+        <source>%2$lld dig</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld / %lld digs|==|substitutions.totalDigs.plural.other" xml:space="preserve">
+        <source>%2$lld digs</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld digs|==|plural.one" xml:space="preserve">
+        <source>%lld dig</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld digs|==|plural.other" xml:space="preserve">
+        <source>%lld digs</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld of %lld finds" xml:space="preserve">
+        <source>%1$lld of %2$#@totalFinds@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld of %lld finds|==|substitutions.totalFinds.plural.one" xml:space="preserve">
+        <source>%2$lld find</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld of %lld finds|==|substitutions.totalFinds.plural.other" xml:space="preserve">
+        <source>%2$lld finds</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="/" xml:space="preserve">
+        <source>/</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="3D" xml:space="preserve">
+        <source>3D</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="A classification" xml:space="preserve">
+        <source>A classification</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="A material" xml:space="preserve">
+        <source>A material</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="A period" xml:space="preserve">
+        <source>A period</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="A timeline for your digs will appear here." xml:space="preserve">
+        <source>A timeline for your digs will appear here.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="A timeline for your finds will appear here." xml:space="preserve">
+        <source>A timeline for your finds will appear here.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="A → Z" xml:space="preserve">
+        <source>A → Z</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ADDRESS" xml:space="preserve">
+        <source>ADDRESS</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="AGREEMENT" xml:space="preserve">
+        <source>AGREEMENT</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ATTRIBUTIONS" xml:space="preserve">
+        <source>ATTRIBUTIONS</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add" xml:space="preserve">
+        <source>Add</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add a boundary" xml:space="preserve">
+        <source>Add a boundary</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add new contact info" xml:space="preserve">
+        <source>Add new contact info</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Address..." xml:space="preserve">
+        <source>Address...</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Agreement..." xml:space="preserve">
+        <source>Agreement...</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="All" xml:space="preserve">
+        <source>All</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="All photos" xml:space="preserve">
+        <source>All photos</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="All time" xml:space="preserve">
+        <source>All time</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Averaging" xml:space="preserve">
+        <source>Averaging</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Boundaries" xml:space="preserve">
+        <source>Boundaries</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Boundary Name" xml:space="preserve">
+        <source>Boundary Name</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Boundary colour" xml:space="preserve">
+        <source>Boundary colour</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Boundary opacity" xml:space="preserve">
+        <source>Boundary opacity</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="CHARTS" xml:space="preserve">
+        <source>CHARTS</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="CLASSIFICATION" xml:space="preserve">
+        <source>CLASSIFICATION</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="CONTACT INFO" xml:space="preserve">
+        <source>CONTACT INFO</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Classification" xml:space="preserve">
+        <source>Classification</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Classifications" xml:space="preserve">
+        <source>Classifications</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Colour" xml:space="preserve">
+        <source>Colour</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Count" xml:space="preserve">
+        <source>Count</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="DATE" xml:space="preserve">
+        <source>DATE</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="DEPTH" xml:space="preserve">
+        <source>DEPTH</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="DETECTOR" xml:space="preserve">
+        <source>DETECTOR</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Date" xml:space="preserve">
+        <source>Date</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Date found" xml:space="preserve">
+        <source>Date found</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Date range" xml:space="preserve">
+        <source>Date range</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Dates" xml:space="preserve">
+        <source>Dates</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Decimal Degs" xml:space="preserve">
+        <source>Decimal Degs</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Degs, Mins, Secs" xml:space="preserve">
+        <source>Degs, Mins, Secs</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Depth" xml:space="preserve">
+        <source>Depth</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Detect" xml:space="preserve">
+        <source>Detect</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Detector" xml:space="preserve">
+        <source>Detector</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Detector: " xml:space="preserve">
+        <source>Detector: </source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Dig" xml:space="preserve">
+        <source>Dig</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Dig photos" xml:space="preserve">
+        <source>Dig photos</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Digs" xml:space="preserve">
+        <source>Digs</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Distribution" xml:space="preserve">
+        <source>Distribution</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Done" xml:space="preserve">
+        <source>Done</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="E-MAIL DEVELOPER" xml:space="preserve">
+        <source>E-MAIL DEVELOPER</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="EmFAbout" xml:space="preserve">
+        <source>Send mail from SwiftUI!</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="EmFAuthor" xml:space="preserve">
+        <source>Gordon Glavaš</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="EmFLicenceType" xml:space="preserve">
+        <source>MIT Licence</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="EmFTitle" xml:space="preserve">
+        <source>E-mail Functionality</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="End date" xml:space="preserve">
+        <source>End date</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Export all finds to .csv" xml:space="preserve">
+        <source>Export all finds to .csv</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Export all finds to .geojson" xml:space="preserve">
+        <source>Export all finds to .geojson</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Export all finds to .gpx" xml:space="preserve">
+        <source>Export all finds to .gpx</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Export all finds to .kml" xml:space="preserve">
+        <source>Export all finds to .kml</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Export finds to .csv" xml:space="preserve">
+        <source>Export finds to .csv</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Export finds to .geojson" xml:space="preserve">
+        <source>Export finds to .geojson</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Export finds to .gpx" xml:space="preserve">
+        <source>Export finds to .gpx</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Export finds to .kml" xml:space="preserve">
+        <source>Export finds to .kml</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="FINDS" xml:space="preserve">
+        <source>FINDS</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="FINDS FROM THIS LANDOWNER" xml:space="preserve">
+        <source>FINDS FROM THIS LANDOWNER</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Filter By" xml:space="preserve">
+        <source>Filter By</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Filter for a classification" xml:space="preserve">
+        <source>Filter for a classification</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Filter for a material" xml:space="preserve">
+        <source>Filter for a material</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Filter for a period" xml:space="preserve">
+        <source>Filter for a period</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Find Colours" xml:space="preserve">
+        <source>Find Colours</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Find photos" xml:space="preserve">
+        <source>Find photos</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Finds" xml:space="preserve">
+        <source>Finds</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Finds Bag" xml:space="preserve">
+        <source>Finds Bag</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Finds must have a target ID and a specified detector to be shown in this chart." xml:space="preserve">
+        <source>Finds must have a target ID and a specified detector to be shown in this chart.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Flat" xml:space="preserve">
+        <source>Flat</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="GPS tracking can sometimes be a bit jumpy due to signal variations. You can choose a smoothing method." xml:space="preserve">
+        <source>GPS tracking can sometimes be a bit jumpy due to signal variations. You can choose a smoothing method.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="I'll fill this in later..." xml:space="preserve">
+        <source>I'll fill this in later...</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Imperial" xml:space="preserve">
+        <source>Imperial</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Kalman" xml:space="preserve">
+        <source>Kalman</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="LANDOWNER" xml:space="preserve">
+        <source>LANDOWNER</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="LATITUDE" xml:space="preserve">
+        <source>LATITUDE</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="LONGITUDE" xml:space="preserve">
+        <source>LONGITUDE</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Landowner" xml:space="preserve">
+        <source>Landowner</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Landowners" xml:space="preserve">
+        <source>Landowners</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Large" xml:space="preserve">
+        <source>Large</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Last year" xml:space="preserve">
+        <source>Last year</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Latitude" xml:space="preserve">
+        <source>Latitude</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Launch to last selected tab" xml:space="preserve">
+        <source>Launch to last selected tab</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Launch to tab:" xml:space="preserve">
+        <source>Launch to tab:</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Left" xml:space="preserve">
+        <source>Left</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Licensed under the %@" xml:space="preserve">
+        <source>Licensed under the %@</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Link a landowner" xml:space="preserve">
+        <source>Link a landowner</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Location Services Permission required" xml:space="preserve">
+        <source>Location Services Permission required</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Location search..." xml:space="preserve">
+        <source>Location search...</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Longitude" xml:space="preserve">
+        <source>Longitude</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="MAPS" xml:space="preserve">
+        <source>MAPS</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="MATERIAL" xml:space="preserve">
+        <source>MATERIAL</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="MIT License" xml:space="preserve">
+        <source>MIT License</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="MITLicenceExcerpt1" xml:space="preserve">
+        <source>Permission is hereby granted, free of charge, to any person obtaining a copy of this [the above] software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="MITLicenceExcerpt2" xml:space="preserve">
+        <source>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="MITLicenceExcerpt3" xml:space="preserve">
+        <source>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="MSFAbout" xml:space="preserve">
+        <source>A Swift wrapper for forward and reverse geocoding of OpenStreetMap data.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="MSFAuthor" xml:space="preserve">
+        <source>Josef Moser</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="MSFLicenceType" xml:space="preserve">
+        <source>MIT Licence</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="MSFTitle" xml:space="preserve">
+        <source>Map Search Functionality</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Map pin colour" xml:space="preserve">
+        <source>Map pin colour</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Material" xml:space="preserve">
+        <source>Material</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Materials" xml:space="preserve">
+        <source>Materials</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Medium" xml:space="preserve">
+        <source>Medium</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Metric" xml:space="preserve">
+        <source>Metric</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Month" xml:space="preserve">
+        <source>Month</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="NAME" xml:space="preserve">
+        <source>NAME</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="NOTES" xml:space="preserve">
+        <source>NOTES</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Name" xml:space="preserve">
+        <source>Name</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Name..." xml:space="preserve">
+        <source>Name...</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New Dig" xml:space="preserve">
+        <source>New Dig</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New Find" xml:space="preserve">
+        <source>New Find</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New classification..." xml:space="preserve">
+        <source>New classification...</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New detector..." xml:space="preserve">
+        <source>New detector...</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New material..." xml:space="preserve">
+        <source>New material...</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New period..." xml:space="preserve">
+        <source>New period...</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No boundaries yet" xml:space="preserve">
+        <source>No boundaries yet</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No digs yet" xml:space="preserve">
+        <source>No digs yet</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No finds with target ID and detector yet" xml:space="preserve">
+        <source>No finds with target ID and detector yet</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No finds yet" xml:space="preserve">
+        <source>No finds yet</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No images yet" xml:space="preserve">
+        <source>No images yet</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No landowners yet" xml:space="preserve">
+        <source>No landowners yet</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No results" xml:space="preserve">
+        <source>No results</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="None" xml:space="preserve">
+        <source>None</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Notes..." xml:space="preserve">
+        <source>Notes...</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Nothing selected" xml:space="preserve">
+        <source>Nothing selected</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Numbers" xml:space="preserve">
+        <source>Numbers</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="OK" xml:space="preserve">
+        <source>OK</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="OSGR" xml:space="preserve">
+        <source>OSGR</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="PERIOD" xml:space="preserve">
+        <source>PERIOD</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="PHOTOS" xml:space="preserve">
+        <source>PHOTOS</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Path smoothing:" xml:space="preserve">
+        <source>Path smoothing:</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Period" xml:space="preserve">
+        <source>Period</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Periods" xml:space="preserve">
+        <source>Periods</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Photos" xml:space="preserve">
+        <source>Photos</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Please enter a name for the new boundary. You can edit this later." xml:space="preserve">
+        <source>Please enter a name for the new boundary. You can edit this later.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Properties" xml:space="preserve">
+        <source>Properties</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="RECOVERED" xml:space="preserve">
+        <source>RECOVERED</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Recovered" xml:space="preserve">
+        <source>Recovered</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Remove a boundary" xml:space="preserve">
+        <source>Remove a boundary</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Resume a dig" xml:space="preserve">
+        <source>Resume a dig</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Right" xml:space="preserve">
+        <source>Right</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="SUMMARY" xml:space="preserve">
+        <source>SUMMARY</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Save full size version to Photos App" xml:space="preserve">
+        <source>Save full size version to Photos App</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Search" xml:space="preserve">
+        <source>Search</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Search for a location" xml:space="preserve">
+        <source>Search for a location</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Search for a place" xml:space="preserve">
+        <source>Search for a place</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Selected is default" xml:space="preserve">
+        <source>Selected is default</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Selected landowner: " xml:space="preserve">
+        <source>Selected landowner: </source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Selected material: " xml:space="preserve">
+        <source>Selected material: </source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Send e-mail" xml:space="preserve">
+        <source>Send e-mail</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Settings" xml:space="preserve">
+        <source>Settings</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show" xml:space="preserve">
+        <source>Show</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show boundaries" xml:space="preserve">
+        <source>Show boundaries</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show finds" xml:space="preserve">
+        <source>Show finds</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show photos" xml:space="preserve">
+        <source>Show photos</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show tracks" xml:space="preserve">
+        <source>Show tracks</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show unknown category" xml:space="preserve">
+        <source>Show unknown category</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show zero count categories" xml:space="preserve">
+        <source>Show zero count categories</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Showing digs from:" xml:space="preserve">
+        <source>Showing digs from:</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Showing finds from:" xml:space="preserve">
+        <source>Showing finds from:</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Showing:" xml:space="preserve">
+        <source>Showing:</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Small" xml:space="preserve">
+        <source>Small</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="SmoothingFilterType.averaging" xml:space="preserve">
+        <source>Averaging</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="SmoothingFilterType.averagingInfo" xml:space="preserve">
+        <source>This method gently evens out your path, softening sharp changes for a steadier and more fluid track.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="SmoothingFilterType.kalman" xml:space="preserve">
+        <source>Kalman</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="SmoothingFilterType.kalmanInfo" xml:space="preserve">
+        <source>This option predicts and refines your path, reducing sudden jumps for a smoother and more natural movement while keeping accuracy high.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="SmoothingFilterType.none" xml:space="preserve">
+        <source>None</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="SmoothingFilterType.noneInfo" xml:space="preserve">
+        <source>No smoothing.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sort By" xml:space="preserve">
+        <source>Sort By</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Start date" xml:space="preserve">
+        <source>Start date</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="TAKEN" xml:space="preserve">
+        <source>TAKEN</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="TARGET ID" xml:space="preserve">
+        <source>TARGET ID</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Target ID" xml:space="preserve">
+        <source>Target ID</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Target IDs" xml:space="preserve">
+        <source>Target IDs</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="This device is not configured for e-mail." xml:space="preserve">
+        <source>This device is not configured for e-mail.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="This year" xml:space="preserve">
+        <source>This year</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Timeline" xml:space="preserve">
+        <source>Timeline</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="To record your route this app needs to track your location when it is in the background. Set location services to 'Always'&#10;&#10;Settings &gt; Privacy &amp; Security &gt; Location Services &gt; subTerra" xml:space="preserve">
+        <source>To record your route this app needs to track your location when it is in the background. Set location services to 'Always'
+
+Settings &gt; Privacy &amp; Security &gt; Location Services &gt; subTerra</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Track colour" xml:space="preserve">
+        <source>Track colour</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Track thickness" xml:space="preserve">
+        <source>Track thickness</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="UI" xml:space="preserve">
+        <source>UI</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="UNITS" xml:space="preserve">
+        <source>UNITS</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="UTM" xml:space="preserve">
+        <source>UTM</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unknown" xml:space="preserve">
+        <source>Unknown</source>
+        <note>Unknown value</note>
+      </trans-unit>
+      <trans-unit id="YEAR" xml:space="preserve">
+        <source>YEAR</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your boundaries will appear here." xml:space="preserve">
+        <source>Your boundaries will appear here.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your digs will appear here." xml:space="preserve">
+        <source>Your digs will appear here.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your finds will appear here." xml:space="preserve">
+        <source>Your finds will appear here.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your images will appear here." xml:space="preserve">
+        <source>Your images will appear here.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your landowners will appear here." xml:space="preserve">
+        <source>Your landowners will appear here.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="[%@](https://github.com/caloon/NominatimKit)" xml:space="preserve">
+        <source>[%@](https://github.com/caloon/NominatimKit)</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="[%@](https://github.com/globulus/swiftui-mail-view/tree/main)" xml:space="preserve">
+        <source>[%@](https://github.com/globulus/swiftui-mail-view/tree/main)</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="distance" xml:space="preserve">
+        <source>distance</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="duration" xml:space="preserve">
+        <source>duration</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_classification_agricultural" xml:space="preserve">
+        <source>Agricultural</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_classification_ammunition" xml:space="preserve">
+        <source>Ammunition</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_classification_automobile" xml:space="preserve">
+        <source>Automobile</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_classification_buckle" xml:space="preserve">
+        <source>Buckle</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_classification_button" xml:space="preserve">
+        <source>Button</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_classification_coin" xml:space="preserve">
+        <source>Coin</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_classification_decoration" xml:space="preserve">
+        <source>Decoration</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_classification_furniture" xml:space="preserve">
+        <source>Furniture</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_classification_horseshoe" xml:space="preserve">
+        <source>Horseshoe</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_classification_household" xml:space="preserve">
+        <source>Household</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_classification_jewellery" xml:space="preserve">
+        <source>Jewellery</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_classification_junk" xml:space="preserve">
+        <source>Junk</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_classification_machinery" xml:space="preserve">
+        <source>Machinery</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_classification_mixed" xml:space="preserve">
+        <source>Mixed</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_classification_tool" xml:space="preserve">
+        <source>Tool</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_classification_toy" xml:space="preserve">
+        <source>Toy</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_classification_unknown" xml:space="preserve">
+        <source>Unknown</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_classification_weapon" xml:space="preserve">
+        <source>Weapon</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_material_aluminium" xml:space="preserve">
+        <source>Aluminium</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_material_brass" xml:space="preserve">
+        <source>Brass</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_material_bronze" xml:space="preserve">
+        <source>Bronze</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_material_copper" xml:space="preserve">
+        <source>Copper</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_material_gold" xml:space="preserve">
+        <source>Gold</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_material_iron" xml:space="preserve">
+        <source>Iron</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_material_lead" xml:space="preserve">
+        <source>Lead</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_material_mixed" xml:space="preserve">
+        <source>Mixed</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_material_nickel" xml:space="preserve">
+        <source>Nickel</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_material_pewter" xml:space="preserve">
+        <source>Pewter</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_material_platinum" xml:space="preserve">
+        <source>Platinum</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_material_silver" xml:space="preserve">
+        <source>Silver</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_material_tin" xml:space="preserve">
+        <source>Tin</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_material_unknown" xml:space="preserve">
+        <source>Unknown</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="find_period_unknown" xml:space="preserve">
+        <source>Unknown</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="latitude" xml:space="preserve">
+        <source>latitude</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="longitude" xml:space="preserve">
+        <source>longitude</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="of" xml:space="preserve">
+        <source>of</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="subTerra wants to record your find locations and your route. Set location services to 'Ask Next Time/When I Share' or 'While using the App' in Settings. 'While using the App' is preferred...&#10;&#10;Settings App &gt; Privacy &amp; Security &gt; Location Services &gt; subTerra" xml:space="preserve">
+        <source>subTerra wants to record your find locations and your route. Set location services to 'Ask Next Time/When I Share' or 'While using the App' in Settings. 'While using the App' is preferred...
+
+Settings App &gt; Privacy &amp; Security &gt; Location Services &gt; subTerra</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="±%@m" xml:space="preserve">
+        <source>±%@m</source>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
